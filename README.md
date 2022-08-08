@@ -1,4 +1,4 @@
-### hey there 
+### Hey there 
 <a href="https://www.instagram.com/alexou73/">
   <img align="left" alt="Alex's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -11,10 +11,11 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VirAlex.visitor-badge)
 
+📈 My github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirAlex&show_icons=true&theme=radical)
 
 
-hi, i'm [Alex Viretti](ttps://www.alexandre-viretti.com/), a passionate self-taught full stack web developer and a freelance front end developer from France.
+Hi, i'm [Alex Viretti](ttps://www.alexandre-viretti.com/), a passionate self-taught full stack web developer and a freelance front end developer from France.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
