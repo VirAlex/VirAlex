@@ -9,6 +9,6 @@
   <img align="left" alt="Alex's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VirAlex.visitor-badge)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirAlex&show_icons=true&theme=radical)
