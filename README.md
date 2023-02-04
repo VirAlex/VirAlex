@@ -37,16 +37,16 @@ Hi, i'm [Alex Viretti](ttps://www.alexandre-viretti.com/), a passionate self-tau
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 August 2022 - To: 01 February 2023
+From: 07 August 2022 - To: 02 February 2023
 
-Total Time: 257 hrs 49 mins
+Total Time: 261 hrs 1 min
 
-JavaScript   164 hrs 52 mins >>>>>>>>>>>>>>>>---------   63.95 %
-TypeScript   37 hrs 47 mins  >>>>---------------------   14.66 %
-SCSS         24 hrs 39 mins  >>-----------------------   09.56 %
-JSON         11 hrs 51 mins  >------------------------   04.60 %
-Go           6 hrs 59 mins   >------------------------   02.71 %
-Bash         3 hrs 35 mins   -------------------------   01.40 %
+JavaScript   167 hrs 36 mins >>>>>>>>>>>>>>>>---------   64.21 %
+TypeScript   38 hrs 15 mins  >>>>---------------------   14.65 %
+SCSS         24 hrs 39 mins  >>-----------------------   09.44 %
+JSON         11 hrs 51 mins  >------------------------   04.54 %
+Go           6 hrs 59 mins   >------------------------   02.68 %
+Bash         3 hrs 35 mins   -------------------------   01.38 %
 ```
 
 <!--END_SECTION:waka-->
