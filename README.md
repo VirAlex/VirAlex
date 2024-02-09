@@ -37,7 +37,7 @@ Hi, i'm [Alex Viretti](ttps://www.alexandre-viretti.com/), a passionate self-tau
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2022 - To: 06 February 2024
+From: 07 August 2022 - To: 07 February 2024
 
 Total Time: 695 hrs 36 mins
 
